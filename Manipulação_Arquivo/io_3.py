@@ -6,4 +6,3 @@ for registro in arquivo:
 
 arquivo.close()
 
-#strip tirou os espaços, lembre-se boco, vc estudou
