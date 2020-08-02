@@ -8,3 +8,4 @@ with open('/home/kami/Projetos/Cod3r/Manipulação_Arquivo/pessoas.csv') as arqu
         
 if arquivo.closed:
     print('Arquivo ja foi fechado')
+    
